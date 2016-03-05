@@ -1,2 +1,2 @@
 # jekyll-dev
-Jekyll development Vagrant environment (`ubuntu/trusty64` box based)
+Jekyll Vagrant development environment (`ubuntu/trusty64` box based)
