@@ -46,7 +46,7 @@ Vagrant.configure(2) do |config|
   # Example for VirtualBox:
   #
   # config.vm.provider "virtualbox" do |vb|
-  #   # Display the VirtualBox GUI when booting the machine
+  #   # Display the VirtualBox GUI when booting the machine∏
   #   vb.gui = true
   #
   #   # Customize the amount of memory on the VM:
@@ -72,5 +72,4 @@ Vagrant.configure(2) do |config|
     apt-get -y install ruby2.2 ruby2.2-dev zlib1g-dev liblzma-dev git zsh
     gem install bundler
   SHELL
-    # gem install github-pages
 end
